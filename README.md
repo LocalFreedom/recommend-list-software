@@ -7,3 +7,9 @@ Awesome operating system, software, or extension in list.
 - [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav)
 - [Kiwix](https://addons.mozilla.org/en-US/firefox/addon/kiwix-offline)
 - [Joplin Web Clipper](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper)
+
+## Offline Game
+- [GOG](https://www.gog.com/)
+	- [The Witcher 3](https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition)
+	- [Cyberpunk 2077](https://www.gog.com/en/game/cyberpunk_2077_ultimate_edition)
+	- [The Elder Scrolls V](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)
