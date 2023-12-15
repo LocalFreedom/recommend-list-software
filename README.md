@@ -13,3 +13,9 @@ Awesome operating system, software, or extension in list.
 	- [The Witcher 3](https://www.gog.com/en/game/the_witcher_3_wild_hunt_game_of_the_year_edition)
 	- [Cyberpunk 2077](https://www.gog.com/en/game/cyberpunk_2077_ultimate_edition)
 	- [The Elder Scrolls V](https://www.gog.com/en/game/the_elder_scrolls_v_skyrim_anniversary_edition)
+
+## Crypto Currency
+- [BTC(Bitcoin)](https://bitcoin.org)
+	- [Electrum](https://electrum.org/)
+- [XMR(monero)](https://www.getmonero.org)
+- [ETH(Ethereum)](https://ethereum.org)
