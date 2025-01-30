@@ -2,11 +2,12 @@
 Awesome operating system, software, or extension in list.
 
 ## Firefox Add-ons
-- [EPUBReader](https://addons.mozilla.org/en-US/firefox/addon/epubreader/)
-- [Offline QR code](https://addons.mozilla.org/en-US/firefox/addon/offline-qr-code-generator)
 - [Emoji](https://addons.mozilla.org/en-US/firefox/addon/emoji-sav)
-- [Kiwix](https://addons.mozilla.org/en-US/firefox/addon/kiwix-offline)
+- [EPUBReader](https://addons.mozilla.org/en-US/firefox/addon/epubreader/)
 - [Joplin Web Clipper](https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper)
+- [Kiwix](https://addons.mozilla.org/en-US/firefox/addon/kiwix-offline)
+- [Offline QR code](https://addons.mozilla.org/en-US/firefox/addon/offline-qr-code-generator)
+- [Page Assist](https://github.com/n4ze3m/page-assist)
 
 ## Offline Game
 - [GOG](https://www.gog.com/)
